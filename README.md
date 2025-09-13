@@ -1,9 +1,9 @@
 
-<h2> # Desafio SQL: Associando Comandos e Descrições </h2>
+<h2> # Desafio DIO - SQL: Associando Comandos e Descrições </h2>
 
 ## Descrição do Projeto
 
-Este é um projeto simples desenvolvido para reforçar o conhecimento de comandos e palavras-chave fundamentais da linguagem SQL (Structured Query Language). O objetivo é associar um comando SQL à sua descrição correta, funcionando como um exercício de fixação para quem está começando a estudar bancos de dados relacionais.
+Esse é um projeto simples que foi desenvolvido para reforçar o conhecimento de comandos e palavras-chave fundamentais da linguagem SQL. O objetivo é associar um comando SQL à sua descrição correta, funcionando como um exercício de fixação para quem está começando a estudar bancos de dados relacionais.
 
 O programa recebe como entrada um comando SQL e retorna a sua função correspondente.
 
